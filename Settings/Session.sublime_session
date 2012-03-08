@@ -1,0 +1,499 @@
+{
+	"folder_history":
+	[
+		"/E/html5/test"
+	],
+	"last_window_id": 2,
+	"settings":
+	{
+		"new_window_height": 842.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"backg",
+						"background	background-color: hex"
+					]
+				]
+			},
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 375.0,
+				"selected_items":
+				[
+					[
+						":w",
+						":w - Save"
+					],
+					[
+						"settings user",
+						"Preferences: Settings - User"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"Snippet: ",
+						"Snippet: html"
+					],
+					[
+						"setting user",
+						"Preferences: Settings - User"
+					],
+					[
+						"",
+						"Bookmarks: Clear All"
+					],
+					[
+						"setting",
+						"Preferences: Settings - User"
+					],
+					[
+						"user",
+						"Preferences: Settings - User"
+					]
+				],
+				"width": 522.0
+			},
+			"console":
+			{
+				"height": 0.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/C/Users/benben/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+				"/C/Users/benben/AppData/Roaming/Sublime Text 2/Packages/SublimeCodeIntel/Default (Windows).sublime-keymap",
+				"/C/Users/benben/AppData/Roaming/Sublime Text 2/Packages/SublimeCodeIntel/Base File.sublime-settings",
+				"/C/Users/benben/AppData/Roaming/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap",
+				"/C/Users/benben/AppData/Roaming/Sublime Text 2/Packages/Alignment/Default (Windows).sublime-keymap",
+				"/C/Users/benben/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap"
+			],
+			"find":
+			{
+				"height": 37.0
+			},
+			"find_in_files":
+			{
+				"height": 124.0,
+				"where_history":
+				[
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"            <",
+					"html",
+					"ctrl+alt+=",
+					"ctrl+alt+a",
+					"ctrl+shift+a"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"replace":
+			{
+				"height": 0.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true
+		},
+		"new_window_width": 1584.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"backgrou",
+						"background	background-color: name"
+					],
+					[
+						"backg",
+						"background	background-color: hex"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/E/html5/test/jQuery Lesson/lesson4.html",
+					"settings":
+					{
+						"buffer_size": 821,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/E/html5/test/jQuery Lesson/night.css",
+					"settings":
+					{
+						"buffer_size": 49,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/E/html5/test/jQuery Lesson/day.css",
+					"settings":
+					{
+						"buffer_size": 35,
+						"line_ending": "Windows"
+					}
+				}
+			],
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 375.0,
+				"selected_items":
+				[
+					[
+						":w",
+						":w - Save"
+					],
+					[
+						":gist",
+						"Gist: Create Public Gist"
+					],
+					[
+						"settings user",
+						"Preferences: Settings - User"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"Snippet: ",
+						"Snippet: html"
+					],
+					[
+						"setting user",
+						"Preferences: Settings - User"
+					],
+					[
+						"",
+						"Bookmarks: Clear All"
+					],
+					[
+						"setting",
+						"Preferences: Settings - User"
+					],
+					[
+						"user",
+						"Preferences: Settings - User"
+					]
+				],
+				"width": 522.0
+			},
+			"console":
+			{
+				"height": 0.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/E/html5/test/helloJquery.html",
+				"/E/html5/test/jQuery Lesson/day.css",
+				"/C/Users/benben/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+				"/C/Users/benben/AppData/Roaming/Sublime Text 2/Packages/SublimeCodeIntel/Default (Windows).sublime-keymap",
+				"/C/Users/benben/AppData/Roaming/Sublime Text 2/Packages/SublimeCodeIntel/Base File.sublime-settings",
+				"/C/Users/benben/AppData/Roaming/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap",
+				"/C/Users/benben/AppData/Roaming/Sublime Text 2/Packages/Alignment/Default (Windows).sublime-keymap",
+				"/C/Users/benben/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap"
+			],
+			"find":
+			{
+				"height": 37.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+					""
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"            <",
+					"html",
+					"ctrl+alt+=",
+					"ctrl+alt+a",
+					"ctrl+shift+a"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/E/html5/test"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/E/html5/test/jQuery Lesson/lesson4.html",
+							"settings":
+							{
+								"buffer_size": 821,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										462,
+										462
+									]
+								],
+								"settings":
+								{
+									"auto_name": "",
+									"gist_description": "jQuery: start",
+									"gist_filename": "gistfile1",
+									"gist_html_url": "https://gist.github.com/1992300",
+									"gist_url": "https://api.github.com/gists/1992300",
+									"syntax": "Packages/HTML/HTML.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 224.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/E/html5/test/jQuery Lesson/night.css",
+							"settings":
+							{
+								"buffer_size": 49,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										45,
+										45
+									]
+								],
+								"settings":
+								{
+									"auto_name": "",
+									"syntax": "Packages/CSS/CSS.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/E/html5/test/jQuery Lesson/day.css",
+							"settings":
+							{
+								"buffer_size": 35,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										35,
+										35
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/CSS/CSS.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 44.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"position": "0,2,3,-1,-1,-1,-1,1200,0,0,2400",
+			"replace":
+			{
+				"height": 84.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"window_id": 2,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

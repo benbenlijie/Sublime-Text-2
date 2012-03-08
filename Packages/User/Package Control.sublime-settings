@@ -1,0 +1,17 @@
+{
+	"auto_upgrade_last_run": 1331173467,
+	"installed_packages":
+	[
+		"Alignment",
+		"GBK Encoding Support",
+		"Gist",
+		"Indent XML",
+		"IndentGuides",
+		"jQuery",
+		"jQuery Snippets pack",
+		"JsFormat",
+		"Package Control",
+		"SublimeCodeIntel",
+		"ZenCoding"
+	]
+}
